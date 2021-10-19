@@ -29,5 +29,5 @@ steps:
       ]
   # Validate input configs against any OPA ConstraintTemplates and Constraints it finds in its input.
   - name: "gcr.io/config-management-release/policy-controller-validate"
-    args: ["--input", "/workspace/config-source.yaml"]
+    args: ["--input", "/workspace/config-source.yaml"] 
 # [END anthos_config_management_ci_pipeline_unstructured_cloud_build] 
