@@ -10,7 +10,7 @@ See [our documentation](https://cloud.google.com/anthos-config-management/docs/h
 This repository contains the following files.
 
 ```console
-ci-pipeline-unstructured/
+acmdemo-cloudbuild/
 ├── config-root
 │   ├── configmap.yaml
 │   └── constraints

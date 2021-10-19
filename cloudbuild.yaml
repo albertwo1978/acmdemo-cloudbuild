@@ -23,7 +23,7 @@ steps:
         "--input",
         "/dev/null",
         "-d",
-        "source_dir=/workspace/ci-pipeline-unstructured/config-root",
+        "source_dir=/workspace/config-root",
         "--output",
         "/workspace/config-source.yaml",
       ]
