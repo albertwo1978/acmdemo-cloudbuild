@@ -19,4 +19,5 @@ metadata:
   namespace: default
 data:
   public_key: no sensitive data
+  private_key: sensitive data goes here
 # [END anthos_config_management_ci_pipeline_unstructured_configmap] 
